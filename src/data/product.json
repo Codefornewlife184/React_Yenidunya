@@ -1,0 +1,53 @@
+[
+  {
+    "id": "1",
+    "picture": "assets/images/product/endustriyel-temizlik.webp",
+    "price": "detaylar",
+    "nav": "/endustriyel-temizlik",
+    "title": "ENDÜSTRİYEL TEMİZLİK"
+  },
+  {
+    "id": "2",
+    "picture": "assets/images/endustriyelmutfak/inoksan-bulasik-makinesi-500-tabak.webp",
+    "price": "detaylar",
+    "nav": "/endustriyel-mutfak",
+    "title": "Endüstrİyel Mutfak",
+    "width":"100%",
+    "height":"auto"
+  },
+  {
+    "id": "3",
+    "picture": "assets/images/product/kagit.webp",
+    "price": "detaylar",
+    "nav": "/endustriyel-kagit",
+    "title": "ENDÜSTRİYEL KAĞIT"
+  },
+  {
+    "id": "4",
+    "picture": "assets/images/product/kozmetik.webp",
+    "price": "detaylar",
+    "nav": "/kozmetik-urunleri",
+    "title": "KOZMETİK ÜRÜNLERİ"
+  },
+  {
+    "id": "5",
+    "picture": "assets/images/product/bitkisel.webp",
+    "price": "detaylar",
+    "nav": "/bitkisel-urunler",
+    "title": "BİTKİSEL ÜRÜNLER"
+  },
+  {
+    "id": "6",
+    "picture": "assets/images/product/ambalaj.webp",
+    "price": "detaylar",
+    "nav": "/ambalaj",
+    "title": "AMBALAJ"
+  },
+  {
+    "id": "7",
+    "picture": "assets/images/product/gida.webp",
+    "price": "detaylar",
+    "nav": "/gida",
+    "title": "GIDA"
+  }
+]
